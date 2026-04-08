@@ -36,5 +36,3 @@ Todas as operações são realizadas através de uma **interface gráfica desenv
 ## 🗄️ Banco de Dados
 
 O projeto utiliza **SQLite** como banco de dados local, permitindo armazenar os dados dos alunos sem a necessidade de instalar um servidor de banco de dados externo. O banco é criado automaticamente caso não exista.
-
-## 📁 Estrutura do Projeto
